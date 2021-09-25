@@ -2,14 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://example.com/home_tmp/skills/</loc>
+  </url><url>
+    <loc>https://example.com/home_tmp/experience/</loc>
+  </url><url>
+    <loc>https://example.com/home_tmp/posts/</loc>
+  </url><url>
+    <loc>https://example.com/home_tmp/projects/</loc>
+  </url><url>
+    <loc>https://example.com/home_tmp/talks/</loc>
+  </url><url>
+    <loc>https://example.com/home_tmp/publications/</loc>
+  </url><url>
+    <loc>https://example.com/home_tmp/tags/</loc>
+  </url><url>
+    <loc>https://example.com/home_tmp/contact/</loc>
   </url><url>
     <loc>https://example.com/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/publication-type/1/</loc>
+    <lastmod>2021-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/publication/swarm-rl/</loc>
+    <lastmod>2021-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tag/deep-reinforcement-learning/</loc>
+    <lastmod>2021-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tag/machine-learning/</loc>
+    <lastmod>2021-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/publication_types/</loc>
+    <lastmod>2021-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/publication/</loc>
+    <lastmod>2021-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tag/quadrotors/</loc>
+    <lastmod>2021-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2021-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/publication/ar-sim/</loc>
+    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
@@ -23,9 +66,6 @@
     <loc>https://example.com/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.com/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -34,12 +74,6 @@
   </url><url>
     <loc>https://example.com/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
@@ -50,18 +84,8 @@
     <loc>https://example.com/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/publication/example/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/publication_types/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/publication/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.com/admin/</loc>
+  </url><url>
+    <loc>https://example.com/home_tmp/</loc>
   </url>
 </urlset>
