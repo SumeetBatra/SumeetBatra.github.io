@@ -1,0 +1,43 @@
+---
+# An instance of the Accomplishments widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: accomplishments
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 50
+
+# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+title: 'Awards'
+subtitle:
+
+# Date format
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
+
+# Accomplishments.
+#   Add/remove as many `item` blocks below as you like.
+#   `title`, `organization`, and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+item:
+- date_start: "2020-04-06"
+  organization: Department of Defense
+  organization_url: https://www.smartscholarship.org/smart
+  title: 2020 DoD SMART Scholarship Awardee
+- date_start: "2016-08-24"
+  date_end: "2017-05-30"
+  organization_url: https://www.colorado.edu/activelearningprogram/discovery-learning-apprenticeship-dla/discovery-learning-apprenticeship-dla-program
+  title: Discovery Learning Apprenticeship (DLA) Scholarship Awardee
+- date_start: "2020-08-17"
+  date_end: "2021-08-17"
+  organization_url: http://graduateschool.usc.edu/fellowships/
+  title: USC 1-Year Fellowship
+  organization: University of Southern California
+
+
+design:
+  columns: '2'
+---
