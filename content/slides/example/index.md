@@ -42,7 +42,7 @@ slides:
 
 ---
 
-## Code Highlighting
+<!-- ## Code Highlighting
 
 Inline code: `variable`
 
@@ -51,7 +51,7 @@ Code block:
 porridge = "blueberry"
 if porridge == "blueberry":
     print("Eating...")
-```
+``` -->
 
 ---
 
