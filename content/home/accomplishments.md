@@ -27,10 +27,6 @@ item:
   organization: Department of Defense
   organization_url: https://www.smartscholarship.org/smart
   title: 2020 DoD SMART Scholarship Awardee
-- date_start: "2016-08-24"
-  date_end: "2017-05-30"
-  organization_url: https://www.colorado.edu/activelearningprogram/discovery-learning-apprenticeship-dla/discovery-learning-apprenticeship-dla-program
-  title: Discovery Learning Apprenticeship (DLA) Scholarship Awardee
 - date_start: "2020-08-17"
   date_end: "2021-08-17"
   organization_url: http://graduateschool.usc.edu/fellowships/

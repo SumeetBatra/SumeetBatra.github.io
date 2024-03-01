@@ -14,14 +14,14 @@ organizations:
   url: https://robotics.usc.edu/resl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include deep reinforcement learning, evolutionary and other biologically inspired learning algorithms, and mobile robots.
+bio: My research interests include deep reinforcement learning, evolutionary and other biologically inspired learning algorithms.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
 - Reinforcement Learning
-- Evolutionary and Genetic Algorithms
-- Mobile Robots
+- Novelty Search 
+- Generative World Models (predictive coding, diffusion models)
+- Active Inference 
 
 # Education to show in About widget
 education:
@@ -65,6 +65,15 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD student at the University of Southern California advised by Gaurav Sukhatme in the Robotics Embedded Systems Laboratory (RESL). My interest are in biologically inspired machine learning algorithms towards robust, generalizable intelligent robot systems and artificial general intelligence (AGI), included Deep Reinforcement Learning (Deep RL), evolutionary, and genetic algorithms. My long-term vision is to design learning algorithms that enable robots to adapt to a variety of dynamic environments and learn to solve new tasks and overcome challenges while deployed. I have experience with high throughput simulators for training agents via Deep RL and zero-shot transferring trained policies to actual hardware. I'm currently interested in combining evolutionary techniques with supervised or semi-supervised learning algorithms as a biologically inspired approach to creating efficient and optimal policies for robot control and navigation.
+I am a PhD candidate at the University of Southern California advised by Gaurav Sukhatme in the Robotics Embedded Systems Laboratory (RESL).
+My research interests are in biologically inspired machine learning algorithms towards creating generalist agents and more philosophically, 
+in algorithms that help us understand the nature of biological intelligence. 
+In the past I've worked on Reinforcement Learning (RL), improving exploration in RL via Quality Diversity / Novelty Search methods,
+and generative models for robot planning and control. 
+I'm currently working on biologically plausible learning algorithms such as theories of predictive coding as generative world models 
+for future prediction and active inference. 
 
-Previously, I was an intern at the National Institute of Standards and Technology (NIST) under Dr. Adam Wunderlich on Generative Adversarial Networks (GANs) for imitating 4G LTE signals. During my undergrad at the University of Colorado Boulder, I worked in the Correll Lab with Professor Nikolaus Correll on distributed robotics and CAIRO Lab with Professor Bradley Hayes on Human Robot Interaction (HRI). I am incredibly grateful to be the recipient of several Undergraduate Research Opportunities Program (UROP) awards and the Discovery Learning Apprenticeship (DLA), sponsoring undergraduates to work in research labs on various research projects.
+Over the past two summers, I've had the immense privilege of working with the Autonomous Vehicles team at NVIDIA as a research scientist intern on Diffusion 
+generative models for automatic scenario generation, as well as implementing simulation pipelines for Reinforcement Learning. 
+Before that, I was an intern at the National Institute of Standards and Technology (NIST), where I worked on Generative Adversarial Networks for 
+generating realistic 4G LTE signals. 
