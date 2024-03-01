@@ -6,7 +6,7 @@ title: Sumeet Batra
 superuser: true
 
 # Role/position/tagline
-role: PhD Researcher in Artificial Intelligence, Robotics
+role: PhD Candidate in Machine Learning, Robotics
 
 # Organizations/Affiliations to show in About widget
 organizations:
