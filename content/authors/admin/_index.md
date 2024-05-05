@@ -21,12 +21,12 @@ interests:
 - Reinforcement Learning
 - Novelty Search 
 - Generative World Models (predictive coding, diffusion models)
-- Active Inference 
+- Neuroscience and NeuroAI
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in AI and Robotics
+  - course: PhD Candidate
     institution: University of Southern California
     year: in progress
   - course: BSc in Computer Science, Minor in Applied Mathematics
@@ -66,14 +66,14 @@ highlight_name: true
 ---
 
 I am a PhD candidate at the University of Southern California advised by Gaurav Sukhatme in the Robotics Embedded Systems Laboratory (RESL).
-My research interests are in biologically inspired machine learning algorithms towards creating generalist agents and more philosophically, 
-in algorithms that help us understand the nature of biological intelligence. 
+I'm interested in creating intelligent systems following neuroscientific perspectives on intelligence. 
+That is, agents that learn predictive models of the world that learn from and actively seek out *surprising* or *novel* experiences.
 In the past I've worked on Reinforcement Learning (RL), improving exploration in RL via Quality Diversity / Novelty Search methods,
 and generative models for robot planning and control. 
-I'm currently working on biologically plausible learning algorithms such as theories of predictive coding as generative world models 
-for future prediction and active inference. 
+I'm currently working on biologically plausible learning algorithms to create more robust and truly generalizable models 
+deployable on real robots. 
 
-Over the past two summers, I've had the immense privilege of working with the Autonomous Vehicles team at NVIDIA as a research scientist intern on Diffusion 
-generative models for automatic scenario generation, as well as implementing simulation pipelines for Reinforcement Learning. 
+Over the past two summers, I've had the immense privilege of working with the Autonomous Vehicles team at NVIDIA as a research scientist intern 
+on Reinforcement Learning and  Diffusion generative models for automatic scenario generation.
 Before that, I was an intern at the National Institute of Standards and Technology (NIST), where I worked on Generative Adversarial Networks for 
 generating realistic 4G LTE signals. 

@@ -183,6 +183,7 @@ sections:
       flip_alt_rows: false
   - block: markdown
     content:
+      demo: true
       title: Gallery
       subtitle: ''
       text: |-
