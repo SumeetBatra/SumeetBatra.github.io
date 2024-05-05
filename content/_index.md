@@ -181,22 +181,14 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-
-[comment]: <> (  - block: markdown)
-
-[comment]: <> (    content:)
-
-[comment]: <> (      title: Gallery)
-
-[comment]: <> (      subtitle: '')
-
-[comment]: <> (      text: |-)
-
-[comment]: <> (        {{< gallery album="demo" >}})
-
-[comment]: <> (    design:)
-
-[comment]: <> (      columns: '1')
+  - block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo" >}}
+    design:
+      columns: '1'
   - block: collection
     id: featured
     content:
