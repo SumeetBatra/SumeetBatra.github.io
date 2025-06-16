@@ -27,11 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am 5th year PhD candidate at the University of Southern California advised by Prof. Gaurav Sukhatme in the [Robotics Embedded Systems Lab (RESL)](https://uscresl.org/).
+I am a 5th year PhD candidate at the University of Southern California advised by Prof. Gaurav Sukhatme in the [Robotics Embedded Systems Lab (RESL)](https://uscresl.org/).
 My research lies at the intersection of curiosity-driven exploration, perception, and decision-making for robots -- focused on how embodied agents can explore, understand, and act in the world in a generalizable manner.
 I'm particularly interested in how data-driven models can achieve _extrapolative generalization_: enabling robots to generalize beyond their training data by learning world models and representations that support robust decision-making in novel environments.
 To this end, I've published work on Reinforcement Learning (RL), open-ended learning algorithms such as Quality Diversity (QD) for 
-self-supervised exploration, Generative models such as Diffusion models for robotics, and self-supervised representation learning from vision for embodied agents. 
+self-supervised exploration, Generative models such as Diffusion models for robotics, and self-supervised representation learning from RGB inputs for embodied agents. 
 
 Previously, I've had the privilege of working with the Autonomous Vehicles team at NVIDIA as a research scientist intern in 2022 and 2023 
 on Reinforcement Learning for autonomous driving and Diffusion models for scenario generation. 
